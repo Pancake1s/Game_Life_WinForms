@@ -14,9 +14,6 @@ namespace main
     {
         private Graphics graphics;
         private int resolution;
-        private bool[,] field;
-        private int rows;
-        private int cols;
         private int currentGeneration = 0;
 
         public Form1()
